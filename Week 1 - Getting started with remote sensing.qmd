@@ -1,0 +1,27 @@
+---
+title: "Week 1 - Getting started with remote sensing"
+---
+
+## **Summary:** 
+
+This week’s lecture taught me that remote sensing involves gathering data from a distance, which is achieved through sensors mounted on a platform including satellites, planes and even… mobile phones. 
+
+This interests me because of the vast amount of available data. From the lecture, I learned that satellites revisit the same locations on Earth daily to every 16 days, continuously collecting data.
+
+In the practical we used data from two multispectral sensors meaning they capture imagery across multiple wavelengths of the electromagnetic spectrum. Landsat satellites detect earth data while in orbit at a 30m resolution and have been providing the longest continuous Earth Observation record dating back to 1972. Whereas, Sentinel 2 (Beginning 2015) are a pair of satellites that monitor the earth’s land surface at a higher resolution (10-60m). 
+
+I currently work for the London Borough of Tower Hamlets and this could be very beneficial to identify areas where there is illegal dumping of waste. For instance, multispectral imagery might be able to detect different materials in waste, such as plastics, metals, or organic matter, which may indicate illegal disposal.
+
+```{r}
+install.packages("usethis")
+library(usethis)
+use_github()
+
+system("git push origin main")
+system("git status")
+
+system("git init")
+
+
+
+```

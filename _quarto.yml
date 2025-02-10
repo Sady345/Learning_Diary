@@ -1,0 +1,25 @@
+project:
+  type: book
+
+book:
+  title: "Learning Diary"
+  author: "Sadia Munye"
+  date: "1/21/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - Week 1 - Getting started with remote sensing.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    
+
+editor: visual
+
