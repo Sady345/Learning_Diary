@@ -20,26 +20,6 @@
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
     "objectID": "Week 1 - Getting started with remote sensing.html",
     "href": "Week 1 - Getting started with remote sensing.html",
     "title": "2  Week 1 - Getting started with remote sensing",
@@ -67,6 +47,16 @@
     "text": "2.3 Reflection:\nFrom the practical, the differences between Sentinel-2 and Landsat were clear. The contrast in imagery from the Landsat and Sentinel-2 can differ, and this is due to the differences in their sensor characteristics and processing methods. Landsat provides a 30 meter spatial resolution and Sentinel provides as high as 10 meters for certain bands. I was really confused from the practical why the images were so different. However its also because you might not be able to get an image from the exact time and day for both satellites. \n\n\n\nBefore colour manipulation in snap\n\n\nHow it looks after I used the colour manipulation:\n\n\n\nAfter colour manipulation in SNAP\n\n\nTherefore, it is important to be cautious when using both datasets together and understand each datasets strengths and limitations.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Week 1 - Getting started with remote sensing</span>"
+    ]
+  },
+  {
+    "objectID": "Week 2 - Xaringan and Quarto.html",
+    "href": "Week 2 - Xaringan and Quarto.html",
+    "title": "3  Week 2 - Xaringan and Quarto",
+    "section": "",
+    "text": "3.1 Presentation",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 2 - Xaringan and Quarto</span>"
     ]
   },
   {
@@ -110,13 +100,23 @@
     ]
   },
   {
-    "objectID": "Week 2 - Xaringan and Quarto.html",
-    "href": "Week 2 - Xaringan and Quarto.html",
-    "title": "3  Week 2 - Xaringan and Quarto",
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "5  Summary",
     "section": "",
-    "text": "3.1 Presentation",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Week 2 - Xaringan and Quarto</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
     ]
   }
 ]
